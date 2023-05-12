@@ -131,3 +131,5 @@ dmypy.json
 
 # netcdf files
 *.nc
+*.png
+*.npy
