@@ -133,3 +133,4 @@ dmypy.json
 *.nc
 *.png
 *.npy
+*.pkl
